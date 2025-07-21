@@ -1,0 +1,63 @@
+# Core Deep Learning and Medical AI
+tensorflow>=2.8.0
+keras>=2.8.0
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.5.0
+pillow>=8.0.0
+scikit-image>=0.18.0
+albumentations>=1.1.0
+
+# Data Science and Analysis
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Web Interfaces and Deployment
+gradio>=3.0.0
+streamlit>=1.15.0
+flask>=2.0.0
+fastapi>=0.70.0
+uvicorn>=0.15.0
+
+# Jupyter and Notebook Support
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipywidgets>=7.6.0
+notebook>=6.4.0
+
+# Medical Imaging (Optional but Recommended)
+pydicom>=2.2.0
+nibabel>=3.2.0
+SimpleITK>=2.1.0
+
+# Utilities and Performance
+tqdm>=4.62.0
+psutil>=5.8.0
+pathlib2>=2.3.0
+
+# Model Optimization and Mobile Deployment
+tensorflow-lite-support>=0.4.0
+onnx>=1.10.0
+onnxruntime>=1.9.0
+
+# Development and Testing
+pytest>=6.2.0
+black>=21.0.0
+flake8>=4.0.0
+mypy>=0.910
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Optional: For advanced features
+# tensorboard>=2.8.0          # Training visualization
+# wandb>=0.12.0               # Experiment tracking
+# mlflow>=1.20.0              # Model lifecycle management
+# docker>=5.0.0               # Containerization
+# kubernetes>=18.0.0          # Orchestration
